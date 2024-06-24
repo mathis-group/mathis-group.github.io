@@ -1,15 +1,12 @@
 ---
 ---
 
-# The Mathis Group at Arizona State University
-
 
 {% include section.html %}
 
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Mathis-Group is embedded within the Biodesign Center for Biocomputation, Security, and Society, as well as the School of Complex Adaptive Systems.
 
 {%
   include button.html
@@ -26,13 +23,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Who we are:"
   text=text
+  style="bare"
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Mathis Group is broadly interested in the origin and detection of life. Our interdisciplinary research focuses on intersection of physics, chemistry, computer science and biology.
 
 {%
   include button.html
@@ -47,8 +45,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Growth.png"
   link="research"
-  title="Our Research"
+  title="What we do:"
   text=text
 %}
