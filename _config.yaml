@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: Mathis-Group @ ASU
+subtitle: subtitle
+description: Description
+logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
+header-dark: true
+footer-dark: true
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: cole.mathis@asu.edu
+  github: https://github.com/mathis-group
+  
 
 ### jekyll settings
 
