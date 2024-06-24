@@ -1,12 +1,12 @@
 # site properties and page defaults
-title: Mathis-Group @ ASU
-subtitle: subtitle
+title: Mathis-Group 
+subtitle: Arizona State University
 description: Description
-logo-text: false
-header: images/background.jpg
+logo-text: true
+header: images/background.png
 footer: images/background.jpg
-header-dark: true
-footer-dark: true
+header-dark: false
+footer-dark: false
 proofer: false
 
 # site social media and other links
