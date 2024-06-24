@@ -14,14 +14,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="<cole.mathis@asu.edu>"
-  link="<cole.mathis@asu.edu>"
+  text="cole.mathis@asu.edu"
+  link="cole.mathis@asu.edu"
 %}
 {%
   include button.html
   type="address"
   tooltip="Location on Google Maps"
-  link="<https://maps.app.goo.gl/CWMNTYQ4YsLvkcK77>"
+  link="https://maps.app.goo.gl/CWMNTYQ4YsLvkcK77"
 %}
 
 {% include section.html %}
