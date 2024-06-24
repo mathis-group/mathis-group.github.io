@@ -1,5 +1,7 @@
 
-# mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Mathis-Group at ASU
+
+Build locally with `./.docker/run.sh` you might need to change from unix to windows line endeds, or visa-versa
 
 Visit **[mathis-group.github.io](https://mathis-group.github.io)** 🚀
 
