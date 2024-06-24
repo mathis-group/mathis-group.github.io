@@ -2,9 +2,9 @@
 title: Mathis-Group 
 subtitle: Arizona State University
 description: Description
-logo-text: false
+logo-text: true
 header: images/Growth.png
-footer: images/background.jpg
+footer: images/Growth.jpg
 header-dark: true
 footer-dark: true
 proofer: false
@@ -30,18 +30,18 @@ defaults:
     values:
       layout: member
   # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+  # - scope:
+  #     type: "posts"
+  #   values:
+  #     layout: post
 
 collections:
   # generate page for each member
   members:
     output: true
   # generate page for each post
-  posts:
-    output: true
+  #posts:
+  #  output: true
 
 # jekyll plugins
 plugins:
