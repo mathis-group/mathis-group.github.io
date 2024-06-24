@@ -1,13 +1,11 @@
 ---
 ---
 
-# mathis-groupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# The Mathis Group at Arizona State University
 
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
