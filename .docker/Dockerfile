@@ -6,7 +6,7 @@ WORKDIR /usr/src/app
 
 # pull in ruby (jekyll) and python (cite process) package info
 COPY Gemfile Gemfile.lock _cite/requirements.txt ./
-
+COPY .docker/entrypoint.sh /var
 # install ruby packages
 RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
     gem install bundler --version ${VERSION} && \
@@ -26,5 +26,5 @@ EXPOSE 4000
 EXPOSE 35729
 
 # run jekyll and cite process
-COPY .docker/entrypoint.sh /var
+
 CMD [ "/var/entrypoint.sh" ]
