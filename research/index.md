@@ -13,6 +13,8 @@ The Mathis Group studies the origin of living systems, and life detection. We al
 
 ## Highlighted
 
+{% include citation.html lookup="Life detection in a universe of false positives" style="rich" %}
+
 {% include citation.html lookup="Identifying molecules as biosignatures with assembly theory and mass spectrometry" style="rich" %}
 
 {% include section.html %}
