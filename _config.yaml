@@ -8,6 +8,7 @@ footer: images/Growth.png
 header-dark: true
 footer-dark: true
 proofer: false
+data-dark: true
 
 # site social media and other links
 links:
