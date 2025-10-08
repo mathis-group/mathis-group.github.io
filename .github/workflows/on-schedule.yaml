@@ -1,6 +1,6 @@
 name: on-schedule
 run-name: on schedule
-runs-on: ubuntu-22.04
+
 
 on:
   schedule:
@@ -23,6 +23,7 @@ jobs:
       open-pr: true
 
   build-preview:
+    runs-on: ubuntu-22.04
     needs: update-citations
     if: needs.update-citations.outputs.changed == 'true'
     uses: ./.github/workflows/build-preview.yaml
