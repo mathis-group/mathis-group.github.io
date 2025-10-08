@@ -1,5 +1,6 @@
 name: on-schedule
 run-name: on schedule
+runs-on: ubuntu-22.04
 
 on:
   schedule:
