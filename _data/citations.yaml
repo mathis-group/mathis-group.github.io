@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.06.20.660822
+  title: Convergent Functional Constraints Make Biochemical Reaction Diversity Predictable
+  authors:
+  - Veronica V. Mierzejewski
+  - Cole Mathis
+  - Christopher P. Kempes
+  - Sara I. Walker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-22'
+  link: https://doi.org/g95g2r
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0207358
+  title: 'Self-organization in computation and chemistry: Return to AlChemy'
+  authors:
+  - Cole Mathis
+  - Devansh Patel
+  - Westley Weimer
+  - Stephanie Forrest
+  publisher: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+  date: '2024-09-01'
+  link: https://doi.org/g95g2s
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acscentsci.4c00120
   title: Investigating and Quantifying Molecular Complexity Using Assembly Theory
     and Spectroscopy
