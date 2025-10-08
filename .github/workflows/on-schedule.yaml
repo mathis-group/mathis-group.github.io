@@ -23,7 +23,7 @@ jobs:
       open-pr: true
 
   build-preview:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     needs: update-citations
     if: needs.update-citations.outputs.changed == 'true'
     uses: ./.github/workflows/build-preview.yaml
