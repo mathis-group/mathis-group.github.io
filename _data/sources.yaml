@@ -15,6 +15,8 @@
 #     - open science
 #     - collaboration
 #   repo: greenelab/meta-review
+- id: doi:10.1063/5.0207358
+  image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/cha/34/9/10.1063_5.0207358/1/093142_1_5.0207358.figures.online.f1.jpeg?Expires=1762991471&Signature=u~X23oXOqm4xex0d2Ri8IwmRpssbxpsZ~BwmPvjBheyyms96DretPar7v9qJw3InNDAzOm6XUge0p3oqLb87D4CtF90-11MLVcJwv3~xH8ynUyupiEYuGBfWE7m6OElwM6VpEva8EOp99d6hWEl2-dzFxm~VdxGxgjhEFjOfrkjunLDEJjobuJqHCRBNPb-UwnxKCVoZ2~1vrZ3JVxY1DDp5KuMhvTEOdZyaYbnIRBbTagd8~QFZMpvWlGaGzrleI6wvVx8WkVCs6u89RzCIrN6ity-4Lvg2UfnLH0ZhyYtZQqdObPcpM~XCrdrrDyoiHdtAxAxR6Fy5TizM4mPATQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1002/bies.202300050
   image: https://onlinelibrary.wiley.com/cms/asset/f89d3043-8ed7-48e4-af30-8f1f14ed9c2d/bies202300050-fig-0002-m.jpg
