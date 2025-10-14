@@ -13,6 +13,60 @@
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/arXiv.2507.00106
+  title: Challenge-Based Funding to Spark Origins Breakthroughs
+  authors:
+  - Cole Mathis
+  - Harrison B. Smith
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g96hn6
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2507.00335
+  title: Historical Contingencies Steer the Topology of Randomly Assembled Graphs
+  authors:
+  - Cole Mathis
+  - Harrison B. Smith
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g96hn7
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2507.08852
+  title: Open, Reproducible Calculation of Assembly Indices
+  authors:
+  - Devansh Vimal
+  - Garrett Parzych
+  - Olivia M. Smith
+  - Devendra Parkar
+  - Sean Bergen
+  - Joshua J. Daymude
+  - Cole Mathis
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g96hn8
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2505.01056
+  title: The Emergence of Chirality from Metabolism
+  authors:
+  - John F. Malloy
+  - Camerian Millsaps
+  - Kamesh Narasimhan
+  - Louie Slocombe
+  - Cole Mathis
+  - Leroy Cronin
+  - Sara Imari Walker
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g96hpb
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1063/5.0207358
   title: 'Self-organization in computation and chemistry: Return to AlChemy'
   authors:
@@ -27,6 +81,34 @@
   plugin: sources.py
   file: sources.yaml
   image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/cha/34/9/10.1063_5.0207358/1/093142_1_5.0207358.figures.online.f1.jpeg?Expires=1762991471&Signature=u~X23oXOqm4xex0d2Ri8IwmRpssbxpsZ~BwmPvjBheyyms96DretPar7v9qJw3InNDAzOm6XUge0p3oqLb87D4CtF90-11MLVcJwv3~xH8ynUyupiEYuGBfWE7m6OElwM6VpEva8EOp99d6hWEl2-dzFxm~VdxGxgjhEFjOfrkjunLDEJjobuJqHCRBNPb-UwnxKCVoZ2~1vrZ3JVxY1DDp5KuMhvTEOdZyaYbnIRBbTagd8~QFZMpvWlGaGzrleI6wvVx8WkVCs6u89RzCIrN6ity-4Lvg2UfnLH0ZhyYtZQqdObPcpM~XCrdrrDyoiHdtAxAxR6Fy5TizM4mPATQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.48550/arXiv.2406.06826
+  title: Experimental Measurement of Assembly Indices are Required to Determine The
+    Threshold for Life
+  authors:
+  - Sara I. Walker
+  - Cole Mathis
+  - Stuart Marshall
+  - Leroy Cronin
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g96hpc
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsif.2024.0367
+  title: Experimentally measured assembly indices are required to determine the threshold
+    for life
+  authors:
+  - Sara I. Walker
+  - Cole Mathis
+  - Stuart Marshall
+  - Leroy Cronin
+  publisher: Journal of The Royal Society Interface
+  date: '2024-11-01'
+  link: https://doi.org/g96hpf
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acscentsci.4c00120
   title: Investigating and Quantifying Molecular Complexity Using Assembly Theory
     and Spectroscopy
@@ -46,6 +128,40 @@
   publisher: ACS Central Science
   date: '2024-04-18'
   link: https://doi.org/gt2rk9
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2408.12137
+  title: 'Self-Organization in Computation &amp; Chemistry: Return to AlChemy'
+  authors:
+  - Cole Mathis
+  - Devansh Patel
+  - Westley Weimer
+  - Stephanie Forrest
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g96hpg
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2302.13753
+  title: Determining Molecular Complexity using Assembly Theory and Spectroscopy
+  authors:
+  - Michael Jirasek
+  - Abhishek Sharma
+  - Jessica R. Bame
+  - S. Hessam M. Mehr
+  - Nicola Bell
+  - Stuart M. Marshall
+  - Cole Mathis
+  - Alasdair Macleod
+  - Geoffrey J. T. Cooper
+  - Marcel Swart
+  - Rosa Mollfulleda
+  - Leroy Cronin
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g96hpj
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
@@ -122,6 +238,19 @@
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/arXiv.2207.00634
+  title: False positives and the challenge of testing the alien hypothesis
+  authors:
+  - Searra Foote
+  - Pritvik Sinhadc
+  - Cole Mathis
+  - Sara Imari Walker
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g96hpk
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.matt.2021.11.030
   title: Investigating the autocatalytically driven formation of Keggin-based polyoxometalate
     clusters
@@ -133,6 +262,17 @@
   publisher: Matter
   date: '2022-01-01'
   link: https://doi.org/gt2rmf
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2205.07921
+  title: The Futility of Exoplanet Biosignatures
+  authors:
+  - Harrison B. Smith
+  - Cole Mathis
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g96hpn
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
@@ -217,6 +357,59 @@
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.26434/chemrxiv.13202969.v1
+  title: A Universal Sequencing System for Unknown Oligomers
+  authors:
+  - David Doran
+  - Emma Clarke
+  - Graham Keenan
+  - Emma Carrick
+  - Cole Mathis
+  - Leroy Cronin
+  publisher: American Chemical Society (ACS)
+  date: '2020-11-09'
+  link: https://doi.org/g96hpp
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv.13476597
+  title: Exploring and Mapping Chemical Space with Molecular Assembly Trees
+  authors:
+  - Yu Liu
+  - Cole Mathis
+  - stuart Marshall
+  - "Micha\u0142 Dariusz Bajczyk"
+  - Liam Wilbraham
+  - Leroy Cronin
+  publisher: American Chemical Society (ACS)
+  date: '2021-05-05'
+  link: https://doi.org/g96hpr
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv.13227881.v1
+  title: Identifying Molecules as Biosignatures with Assembly Theory and Mass Spectrometry
+  authors:
+  - stuart Marshall
+  - Cole Mathis
+  - Emma Carrick
+  - Graham Keenan
+  - Geoffrey Cooper
+  - Heather Graham
+  - Jessica Bame
+  - Matthew Craven
+  - Nicola Bell
+  - Piotr S. Gromski
+  - Marcel Swart
+  - Douglas G. Moore
+  - Sara Walker
+  - Leroy Cronin
+  publisher: American Chemical Society (ACS)
+  date: '2020-11-16'
+  link: https://doi.org/g96hps
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/sciadv.aau0149
   title: Universal scaling across biochemical networks on Earth
   authors:
@@ -265,6 +458,56 @@
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.26434/chemrxiv.9598442.v1
+  title: Spontaneous Formation of Autocatalytic Sets with Self-Replicating Inorganic
+    Metal Oxide Clusters
+  authors:
+  - Haralampos N. Miras
+  - Cole Mathis
+  - Weimin Xuan
+  - De-Liang Long
+  - Robert Pow
+  - Leroy Cronin
+  publisher: American Chemical Society (ACS)
+  date: '2019-08-14'
+  link: https://doi.org/g96hpt
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv.6962813.v1
+  title: Environmental Control Programs the Emergence of Distinct Product Ensembles
+    from Unconstrained Chemical Reaction Networks
+  authors:
+  - Andrew J. Surman,
+  - Marc Rodriguez Garcia
+  - Yousef Abul-Haija
+  - Geoffrey Cooper
+  - Piotr S. Gromski
+  - Rebecca Turk-MacLeod
+  - Margaret Mullin
+  - Cole Mathis
+  - Sara Walker
+  - Leroy Cronin
+  publisher: American Chemical Society (ACS)
+  date: '2018-08-14'
+  link: https://doi.org/g96hpw
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1807.08635
+  title: Individual perception dynamics in drunk games
+  authors:
+  - Alberto Antonioni
+  - Luis A. Martinez-Vaquero
+  - Cole Mathis
+  - Leto Peel
+  - Massimo Stella
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g96hpx
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/life7040038
   title: 'Prebiotic RNA Network Formation: A Taxonomy of Molecular Cooperation'
   authors:
@@ -287,6 +530,20 @@
   publisher: Astrobiology
   date: '2017-03-01'
   link: https://doi.org/f9z968
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/212118
+  title: Universal scaling across biochemical networks on Earth
+  authors:
+  - Hyunju Kim
+  - Harrison B. Smith
+  - Cole Mathis
+  - Jason Raymond
+  - Sara I. Walker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-31'
+  link: https://doi.org/gktw74
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
   file: orcid.yaml
