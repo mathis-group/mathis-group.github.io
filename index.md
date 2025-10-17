@@ -6,7 +6,7 @@
 
 {% capture text %}
 
-The Mathis Group is broadly interested in the origin and detection of life. Our goal is to understand the emergence of life, develop tools to facilitate life detection in the solar system, and help make life in the lab. We conduct  interdisciplinary research focuses on the intersection of physics, chemistry, computer science and biology.
+The Mathis Group is broadly interested in the origin and detection of life. Our goal is to understand the emergence of life, develop tools to facilitate life detection in the solar system, and help make life in the lab. We conduct interdisciplinary research focuses on the intersection of physics, chemistry, computer science and biology.
 
 {%
   include button.html

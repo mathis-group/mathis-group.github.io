@@ -1,0 +1,11 @@
+<section class="project-focus" style="margin-bottom:2em;">
+  <div style="display:flex;align-items:flex-start;gap:1.5em;flex-wrap:wrap;">
+    {% if include.project.image %}
+      <img src="/{{ include.project.image }}" alt="{{ include.project.title }}" style="max-width:220px;min-width:120px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.08);margin-bottom:0;">
+    {% endif %}
+    <div style="flex:1;min-width:220px;">
+      <h2 style="margin-top:0;">{{ include.project.title }}</h2>
+      <p>{{ include.project.description }}</p>
+    </div>
+  </div>
+</section>

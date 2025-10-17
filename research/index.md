@@ -6,13 +6,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The Mathis Group studies the origin of living systems, and life detection. We also hope to use the insights and tools we develop to better understand the future of our planet and ourselves. We're just getting started. Check back soon to keep up!
-
-
-{% include section.html %}
-
-# Research Focus
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% assign featured_projects = site.data.projects | where: "group", "featured" %}
+{% for project in featured_projects %}
+  {% include project-focus.html project=project %}
+{% endfor %}
 
 {% include section.html %}
 
