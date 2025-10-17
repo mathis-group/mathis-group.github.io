@@ -1,47 +1,14 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Modelling the Origin(s) of Life.
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/modeling-acs.jpg
+  description: We use numerical simulation, and statistical modelling to explore properties of living systems and understand how they can emerge from simpler, non-living components. 
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Life Detection from First Principles.
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/life-detection.jpg
+  description: A key challenge in astrobiology is that we don't have widely accepted definitions of life. We take a pragmatic approach to life detection, while still engaging with the underlying  challenges.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Assembly Theory for Complex Systems.
+  group: featured
+  image: images/assembly-theory.png
+  description: We use assembly theory to understand the emergence of complex features in physical systems, and how to build systems that will enable the open-ended evolution complex features, both the lab and in silico.

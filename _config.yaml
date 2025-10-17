@@ -1,10 +1,10 @@
 # site properties and page defaults
 title: Mathis-Group 
 subtitle: Arizona State University
-description: Description
+description: Complex Systems, Origins of Life, Astrobiology, and Intellectual Pluralism
 logo-text: true
-header: images/Growth.png
-footer: images/Growth.png
+header: images/concrete-background.png
+footer: images/concrete-background.png
 header-dark: true
 footer-dark: true
 proofer: false
@@ -13,7 +13,7 @@ data-dark: true
 # site social media and other links
 links:
   email: cole.mathis@asu.edu
-  github: https://github.com/mathis-group
+  github: mathis-group
   
 
 ### jekyll settings
