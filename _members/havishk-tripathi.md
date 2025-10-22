@@ -1,6 +1,6 @@
 ---
 name: Havishk Tripathi
-image: images/Photo_Havishk_Lab.jpg
+image: images/Photo_Havi_Lab.JPG
 description: PhD Student in School of Earth and Space Exploration
 role: phd
 group: alum
