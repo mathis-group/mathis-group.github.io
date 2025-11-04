@@ -2,6 +2,14 @@
 name: Olivia Smith
 image: images/OSmith2024.jpg
 description: PhD Student
+aliases:
+  - OM Smith
+  - O.M. Smith
+  - Olivia Smith
+  - Olivia M. Smith
+  - Smith O.
+  - Smith OM.
+  - Smith O.M.
 role: phd
 group: alum
 ---

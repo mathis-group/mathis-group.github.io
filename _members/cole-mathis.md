@@ -6,6 +6,8 @@ affiliation: Arizona State University
 aliases:
   - C. Mathis
   - C Mathis
+  - Cole Mathis
+  - Mathis C.
 links:
   home-page: https://colemathis.github.io/
   orcid: 0000-0001-8424-9169
