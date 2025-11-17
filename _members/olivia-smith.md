@@ -1,17 +1,17 @@
 ---
 name: Olivia Smith
 image: images/OSmith2024.jpg
-description: PhD Student
+description: PhD Student in School of Complex Adaptive Systems 
 role: phd
 group: alum
 ---
 
-I am an early-career scientist with an interdisciplinary approach to problems concerning the origin of life on Earth. I am excited to join the Mathis-Group in Fall 2024 as a PhD student. My research interests include biosignature detection, instrument and mission design, and prebiotic chemistry.
+I am an early-career scientist excited about the possibility of finding ecosystems elsewhere. I am currently a PhD student in ASU's School of Complex Adaptive Systems. My research interests include agnostic biosignatures, microbial ecology, the emergence of complex ecosystems, and computational and mathematical biology. In my current projects, I use mathematical models to highlight the conditions that underpin biodiversity and stability in microbial ecosystems, as well as the efficient navigation of fitness landscapes via mutation and selection. 
 
-I recently graduated from the University of New Hampshire with a bachelor’s degree in biology. In addition to my foundational biology education, I have a strong, interdisciplinary background in physics, microbiology, computer science, and genomics. My senior thesis project was titled “Modeling the population dynamics of a human Mars colony in the event of catastrophe”, where I modeled four different catastrophic event scenarios and the feasibility of moving a small proportion of the human population to Mars.
+I received a B.S. in biology from the University of New Hampshire, where I pursued additional coursework in physics, data science, and genomics. Some of my noteworthy past research experiences include a Planetary Protection Microbiology internship at [NASA Goddard Space Flight Center](https://etd.gsfc.nasa.gov/partnerships/partnership-opportunities/planetary-protection-flight-facility/), and a mathematical modeling project for human space exploration through [UNH's Quantitative Marine Ecology Lab](https://quantmarineecolab.github.io/). My backround is unique in that I am proficient in both wet lab and dry lab biology methods. 
 
-In the summer of 2023, I completed an internship at NASA Goddard Space Flight Center in Planetary Protection Microbiology. It was at Goddard where I found my passion for the intersection between microbiology, space exploration, and contamination engineering. My summer projects included researching genes and metabolic pathways relevant to the survival of microbes in Goddard’s cleanrooms, establishing new molecular biology capabilities for the Planetary Protection lab with the addition of a DNA sequencing instrument, and designing and executing an extraction efficiency experiment at the request of NASA Headquarters. I hope to continue my collaboration with NASA as a graduate student.
+Aside from my research, I am very passionate about science education. I am currently the Program Director of the [Biocomputing Scholars Program](https://asu-bd-bss.github.io/), which is an undergraduate research program through ASU's Biodesign Center for Biocomputing, Security, and Society. I am also a member of the [Origin of Life Early-career Network (OoLEN)](https://www.oolen.org/about/). 
 
-Aside from my research, I have a strong interest in science education, as well as accessibility and inclusion in STEM.
 
-I am looking forward to exploring new opportunities with the Mathis-Group as I pursue my PhD in Complex Adaptive System Science at ASU.
+
+
