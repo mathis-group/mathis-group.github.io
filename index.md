@@ -10,7 +10,7 @@ The Mathis Group is broadly interested in the origin and detection of life. Our 
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
