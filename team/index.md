@@ -16,9 +16,6 @@ nav:
 
 # Interested in Joining?
 
-### Postdoctoral Scholars:
-We're hiring! Details and application portal are available here: [apply.interfolio.com](https://apply.interfolio.com/175255) 
-
 ### Graduate Students:
 We do not currently have funding lines to support new graduate students. Students interested in joining us are encouraged to apply to the PhD program in the School of Complex Adaptive Systems, and contact Prof. Cole Mathis about applying for independent funding through the [NSF's Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) or [NASA Future Investigators in NASA Earth and Space Science Technology](https://science.nasa.gov/earth-science/early-career-opportunities/) programs. 
 

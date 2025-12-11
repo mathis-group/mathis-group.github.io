@@ -1,6 +1,6 @@
 ---
 name: Cole Mathis
-image: images/Mathis_Profile_2023_small_crop.jpg
+image: images/Cole-Mathis.jpg
 role: pi
 affiliation: Arizona State University
 aliases:

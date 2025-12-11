@@ -1,18 +1,9 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
+  order: 2
+  tooltip: Papers, Software, Datasets.
 ---
-
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-{% assign featured_projects = site.data.projects | where: "group", "featured" %}
-{% for project in featured_projects %}
-  {% include project-focus.html project=project %}
-{% endfor %}
-
-{% include section.html %}
-
 
 # Highlighted Publications
 
@@ -23,3 +14,15 @@ nav:
 {% include citation.html lookup="Identifying molecules as biosignatures with assembly theory and mass spectrometry" style="rich" %}
 
 {% include section.html %}
+
+# Software
+
+See our [GitHub profile](https://github.com/mathis-group) for access to software we've developed and scripts to reproduce our work. 
+
+# All Publications
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}
