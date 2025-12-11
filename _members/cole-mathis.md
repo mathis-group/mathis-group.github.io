@@ -1,11 +1,13 @@
 ---
 name: Cole Mathis
-image: images/Mathis_Profile_2023_small_crop.jpg
+image: images/Cole-Mathis.jpg
 role: pi
 affiliation: Arizona State University
 aliases:
   - C. Mathis
   - C Mathis
+  - Cole Mathis
+  - Mathis C.
 links:
   home-page: https://colemathis.github.io/
   orcid: 0000-0001-8424-9169

@@ -2,8 +2,13 @@
 name: Alexandre Champagne-Ruel
 image: images/AChampagneRuel.jpg
 description: NASA Postdoctoral Fellow
-role: phd
-group: alum
+role: postdoc
+aliases:
+  - A. Champagne-Ruel
+  - A Champagne-Ruel
+  - Alexandre Champagne-Ruel
+  - Champagne-Ruel A.
+group: alumn
 home-page: https://alexandrechampagne.io
 ---
 
