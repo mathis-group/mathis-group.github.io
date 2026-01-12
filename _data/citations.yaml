@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21105/joss.09318
+  title: 'assembly-theory: Open, Reproducible Calculation of Assembly Indices'
+  authors:
+  - Devansh Vimal
+  - Garrett Parzych
+  - Olivia M. Smith
+  - Devendra Parkar
+  - Holly Bergen
+  - Joshua J. Daymude
+  - Cole Mathis
+  publisher: Journal of Open Source Software
+  date: '2026-01-06'
+  link: https://doi.org/hbjncm
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.06.20.660822
   title: Convergent Functional Constraints Make Biochemical Reaction Diversity Predictable
   authors:
