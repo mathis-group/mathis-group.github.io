@@ -23,7 +23,7 @@
   - Cole Mathis
   - Christopher P. Kempes
   - Sara I. Walker
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-22'
   link: https://doi.org/g95g2r
   orcid: 0000-0001-8424-9169
@@ -421,7 +421,7 @@
   - Sara Walker
   - Leroy Cronin
   publisher: American Chemical Society (ACS)
-  date: '2020-11-16'
+  date: '2020-11-15'
   link: https://doi.org/g96hps
   orcid: 0000-0001-8424-9169
   plugin: orcid.py
@@ -557,7 +557,7 @@
   - Cole Mathis
   - Jason Raymond
   - Sara I. Walker
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-10-31'
   link: https://doi.org/gktw74
   orcid: 0000-0001-8424-9169
