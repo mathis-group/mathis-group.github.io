@@ -1,5 +1,99 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.xcrp.2026.103212
+  title: "What it takes to solve the origin of life: An integrated review. Part 1\u2013\
+    Experimental methods and data repositories"
+  authors:
+  - Silke Asche
+  - Carla Bautista
+  - Celia Blanco
+  - David Boulesteix
+  - Alexandre Champagne-Ruel
+  - Cole Mathis
+  - Omer Markovitch
+  - Zhen Peng
+  - Avinash Vicholous Dass
+  - Alyssa Adams
+  - Eloi Camprubi
+  - Enrico Sandro Colizzi
+  - "Stephanie Col\xF3n-Santos"
+  - Hannah Dromiack
+  - Valentina Erastova
+  - Amanda Garcia
+  - Ghjuvan Grimaud
+  - Aaron Halpern
+  - Stuart A. Harrison
+  - "Se\xE1n F. Jordan"
+  - Tony Z. Jia
+  - Amit Kahana
+  - Artemy Kolchinsky
+  - Odin Moron-Garcia
+  - Ryo Mizuuchi
+  - Jingbo Nan
+  - Yuliia Orlova
+  - Ben K.D. Pearce
+  - Klaus Paschek
+  - Martina Preiner
+  - Silvana Pinna
+  - "Eduardo Rodr\xEDguez-Rom\xE1n"
+  - Loraine Schwander
+  - Siddhant Sharma
+  - Harrison B. Smith
+  - Andrey Vieira
+  - Joana C. Xavier
+  publisher: Cell Reports Physical Science
+  date: '2026-04-01'
+  link: https://doi.org/hbwvk4
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xcrp.2026.103211
+  title: 'What it takes to solve the origins of life: An integrated review. Part 2:
+    Theoretical methods and emerging trends'
+  authors:
+  - Silke Asche
+  - Carla Bautista
+  - Celia Blanco
+  - David Boulesteix
+  - Alexandre Champagne-Ruel
+  - Cole Mathis
+  - Omer Markovitch
+  - Zhen Peng
+  - Avinash Vicholous Dass
+  - Alyssa Adams
+  - Eloi Camprubi
+  - Enrico Sandro Colizzi
+  - "Stephanie Col\xF3n-Santos"
+  - Hannah Dromiack
+  - Valentina Erastova
+  - Amanda Garcia
+  - Ghjuvan Grimaud
+  - Aaron Halpern
+  - Stuart A. Harrison
+  - "Se\xE1n F. Jordan"
+  - Tony Z. Jia
+  - Amit Kahana
+  - Artemy Kolchinsky
+  - Odin Moron-Garcia
+  - Ryo Mizuuchi
+  - Jingbo Nan
+  - Yuliia Orlova
+  - Ben K.D. Pearce
+  - Klaus Paschek
+  - Martina Preiner
+  - Silvana Pinna
+  - "Eduardo Rodr\xEDguez-Rom\xE1n"
+  - Loraine Schwander
+  - Siddhant Sharma
+  - Harrison B. Smith
+  - Andrey Vieira
+  - Joana C. Xavier
+  publisher: Cell Reports Physical Science
+  date: '2026-04-01'
+  link: https://doi.org/hbv4bx
+  orcid: 0000-0001-8424-9169
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21105/joss.09318
   title: 'assembly-theory: Open, Reproducible Calculation of Assembly Indices'
   authors:
