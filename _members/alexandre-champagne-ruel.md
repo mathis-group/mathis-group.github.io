@@ -12,8 +12,8 @@ group: alumn
 home-page: https://alexandrechampagne.io
 ---
 
-I’m Alexandre Champagne-Ruel, a NASA Postdoctoral Fellow with the Mathis Group at ASU. I’m a physicist with dual training in philosophy, and I’m deeply passionate about the origins of life and complex systems.
+I am a NASA Postdoctoral Fellow and physicist at Arizona State University’s Biodesign Institute. As a member of the Mathis Group, I investigate the physical principles underlying the origin of life. My research integrates statistical mechanics, information theory, and evolutionary dynamics to understand how spatial environments drive the emergence of complexity.
 
-I study how physical processes and environmental structures shape the emergence of complexity at life’s origin. Using artificial-chemistry models, I investigate how transport and topology modulate the emergence of complex chemistry, with the goal of refining agnostic life-detection strategies and experimental design.
+I completed my PhD at the Université de Montréal in 2025. My thesis, La spatialité dans l’évolution prébiotique : vers une physique de l’émergence de la complexité (Spatiality in prebiotic evolution: toward a physics of the emergence of complexity), explored how spatial structure can shape the emergence of molecular and evolutionary complexity.
 
-In earlier work, I explored how perturbations and diffusion can promote cooperative phenomena, complex behavior, and spatial patterning. I’m also actively involved in the Origin of Life Early Career Network and maintain the Origin of Life Digest.
+I also maintain the [Origin of Life Digest](https://buttondown.com/ooldigest/), and I’m a member of the [Origin of Life Early Career Network](https://www.oolen.org) (OoLEN), serving on its Executive Board since 2022.
